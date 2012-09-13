@@ -1,0 +1,12 @@
+{
+  "name": "attendence",
+  "version": "0.0.1",
+  "dependencies": {
+    "formidable": "1.0.11",
+	"mysql": "2.0.0-alpha3"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
